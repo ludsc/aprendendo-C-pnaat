@@ -1,7 +1,7 @@
 //exemplo de uma implementação apenas para representar dados de um carro
 #include <stdio.h>
 
-main(){
+int main(){
     // a estrutura abaixo armazena diversos detalhes de uma roda
     typedef struct {
         float velocidade;
